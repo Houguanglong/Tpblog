@@ -1,0 +1,3 @@
+<?php
+//000000000000a:23:{s:2:"id";i:119;s:4:"lang";i:1;s:4:"name";s:10:"api_domain";s:5:"title";s:18:"数据接口域名";s:5:"group";s:4:"base";s:4:"type";s:4:"text";s:5:"value";s:19:"103.45.16.204:10345";s:7:"options";s:0:"";s:4:"tips";s:0:"";s:8:"ajax_url";s:0:"";s:10:"next_items";s:0:"";s:5:"param";s:0:"";s:6:"format";s:0:"";s:5:"table";s:0:"";s:5:"level";i:2;s:3:"key";s:0:"";s:6:"option";s:0:"";s:3:"pid";s:0:"";s:2:"ak";s:0:"";s:11:"create_time";i:0;s:11:"update_time";i:0;s:4:"sort";i:100;s:6:"status";i:1;}
+?>

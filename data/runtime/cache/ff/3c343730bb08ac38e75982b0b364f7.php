@@ -1,0 +1,3 @@
+<?php
+//000000000000a:23:{s:2:"id";i:80;s:4:"lang";i:1;s:4:"name";s:14:"default_module";s:5:"title";s:18:"系统默认模块";s:5:"group";s:4:"base";s:4:"type";s:7:"linkage";s:5:"value";s:4:"shop";s:7:"options";s:0:"";s:4:"tips";s:36:"系统前台访问时的默认模块";s:8:"ajax_url";s:18:"Comm/ajaxGetModule";s:10:"next_items";s:0:"";s:5:"param";s:0:"";s:6:"format";s:0:"";s:5:"table";s:0:"";s:5:"level";i:2;s:3:"key";s:0:"";s:6:"option";s:0:"";s:3:"pid";s:0:"";s:2:"ak";s:0:"";s:11:"create_time";i:0;s:11:"update_time";i:0;s:4:"sort";i:1;s:6:"status";i:1;}
+?>

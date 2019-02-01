@@ -1,0 +1,1146 @@
+[ 2019-01-10T19:51:49+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.050179s][吞吐率：19.93req/s] [内存消耗：1,447.41kb] [文件加载：48]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T20:00:34+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.046246s][吞吐率：21.62req/s] [内存消耗：1,447.41kb] [文件加载：48]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T20:00:34+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.040743s][吞吐率：24.54req/s] [内存消耗：1,447.41kb] [文件加载：48]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T20:00:35+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.037430s][吞吐率：26.72req/s] [内存消耗：1,447.41kb] [文件加载：48]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T20:03:06+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.042503s][吞吐率：23.53req/s] [内存消耗：1,447.41kb] [文件加载：48]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T20:03:07+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.035255s][吞吐率：28.36req/s] [内存消耗：1,447.41kb] [文件加载：48]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T20:03:07+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.033172s][吞吐率：30.15req/s] [内存消耗：1,447.41kb] [文件加载：48]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T20:03:07+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.044974s][吞吐率：22.24req/s] [内存消耗：1,447.41kb] [文件加载：48]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T20:04:12+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.032285s][吞吐率：30.97req/s] [内存消耗：1,447.41kb] [文件加载：48]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T20:04:13+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.037166s][吞吐率：26.91req/s] [内存消耗：1,447.41kb] [文件加载：48]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T20:04:13+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.038103s][吞吐率：26.24req/s] [内存消耗：1,447.41kb] [文件加载：48]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T20:04:13+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.043995s][吞吐率：22.73req/s] [内存消耗：1,447.41kb] [文件加载：48]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T20:04:13+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.045235s][吞吐率：22.11req/s] [内存消耗：1,447.41kb] [文件加载：48]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T20:04:32+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.043961s][吞吐率：22.75req/s] [内存消耗：1,447.41kb] [文件加载：48]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T20:04:34+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.033706s][吞吐率：29.67req/s] [内存消耗：1,447.41kb] [文件加载：48]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:51:43+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.075854s][吞吐率：13.18req/s] [内存消耗：1,447.41kb] [文件加载：48]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:55:49+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.044235s][吞吐率：22.61req/s] [内存消耗：1,450.55kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:55:49+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.044153s][吞吐率：22.65req/s] [内存消耗：1,450.55kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:55:50+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.037440s][吞吐率：26.71req/s] [内存消耗：1,450.55kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:55:50+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.029713s][吞吐率：33.66req/s] [内存消耗：1,450.55kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:59:38+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.034207s][吞吐率：29.23req/s] [内存消耗：1,450.30kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:59:38+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.040471s][吞吐率：24.71req/s] [内存消耗：1,450.30kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:59:39+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.035730s][吞吐率：27.99req/s] [内存消耗：1,450.30kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:59:39+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.028153s][吞吐率：35.52req/s] [内存消耗：1,450.30kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:59:39+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.043506s][吞吐率：22.99req/s] [内存消耗：1,450.30kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:59:39+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.031428s][吞吐率：31.82req/s] [内存消耗：1,450.30kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:59:39+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.038692s][吞吐率：25.85req/s] [内存消耗：1,450.30kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:59:39+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.040912s][吞吐率：24.44req/s] [内存消耗：1,450.30kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:59:40+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.044360s][吞吐率：22.54req/s] [内存消耗：1,450.30kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:59:40+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.035797s][吞吐率：27.94req/s] [内存消耗：1,450.30kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:59:40+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.022382s][吞吐率：44.68req/s] [内存消耗：1,450.30kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:59:40+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.032026s][吞吐率：31.22req/s] [内存消耗：1,450.30kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:59:58+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.026555s][吞吐率：37.66req/s] [内存消耗：1,450.30kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:59:58+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.035466s][吞吐率：28.20req/s] [内存消耗：1,450.30kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T21:59:58+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.032096s][吞吐率：31.16req/s] [内存消耗：1,450.30kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T22:00:08+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.033380s][吞吐率：29.96req/s] [内存消耗：1,450.30kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T22:29:35+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.025664s][吞吐率：38.97req/s] [内存消耗：1,183.71kb] [文件加载：37]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-01-10T22:45:37+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.038014s][吞吐率：26.31req/s] [内存消耗：1,450.55kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-10T22:50:12+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.046804s][吞吐率：21.37req/s] [内存消耗：1,450.70kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'pgv_pvi=4027603968; pgv_si=s396361728',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------

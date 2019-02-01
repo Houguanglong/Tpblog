@@ -1,0 +1,435 @@
+[ 2019-01-27T17:02:15+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.046347s][吞吐率：21.58req/s] [内存消耗：1,449.96kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-27T17:02:15+08:00 ] ::1 ::1 GET /favicon.ico
+[ log ] myshop.com/favicon.ico [运行时间：0.022993s][吞吐率：43.49req/s] [内存消耗：1,244.70kb] [文件加载：41]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://myshop.com/',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-01-27T09:02:30+00:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.021474s][吞吐率：46.57req/s] [内存消耗：1,183.89kb] [文件加载：38]
+[ error ] [0]Fatal error: Call to undefined function think\dump()[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\App.php:419]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-01-27T17:03:44+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.033221s][吞吐率：30.10req/s] [内存消耗：1,450.10kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-27T17:35:52+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.020502s][吞吐率：48.78req/s] [内存消耗：1,148.63kb] [文件加载：35]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-01-27T17:36:05+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.016606s][吞吐率：60.22req/s] [内存消耗：1,149.55kb] [文件加载：35]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-01-27T17:36:25+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.018204s][吞吐率：54.93req/s] [内存消耗：1,148.63kb] [文件加载：35]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-01-27T17:39:08+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.024694s][吞吐率：40.50req/s] [内存消耗：1,148.63kb] [文件加载：35]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-01-27T17:41:50+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.049715s][吞吐率：20.11req/s] [内存消耗：1,450.13kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-27T17:42:04+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.025438s][吞吐率：39.31req/s] [内存消耗：1,156.59kb] [文件加载：36]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-01-27T17:42:12+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.020974s][吞吐率：47.68req/s] [内存消耗：1,156.61kb] [文件加载：36]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-01-27T17:42:19+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.018807s][吞吐率：53.17req/s] [内存消耗：1,156.61kb] [文件加载：36]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-01-27T17:42:20+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.024745s][吞吐率：40.41req/s] [内存消耗：1,156.61kb] [文件加载：36]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-01-27T17:42:20+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.018403s][吞吐率：54.34req/s] [内存消耗：1,156.61kb] [文件加载：36]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-01-27T17:42:29+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.030034s][吞吐率：33.30req/s] [内存消耗：1,450.13kb] [文件加载：49]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\myphp_www\PHPTutorial\WWW\myshop\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]模板文件不存在:D:\myphp_www\PHPTutorial\WWW\myshop/application/index\view\index\index.html[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\view\driver\Think.php:80]
+
+---------------------------------------------------------------
+[ 2019-01-27T20:30:13+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.023379s][吞吐率：42.77req/s] [内存消耗：1,151.19kb] [文件加载：36]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2019-01-27T20:47:26+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.061422s][吞吐率：16.28req/s] [内存消耗：1,799.34kb] [文件加载：51]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\db\Connection.php:287]
+
+---------------------------------------------------------------
+[ 2019-01-27T20:48:02+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.053896s][吞吐率：18.55req/s] [内存消耗：1,823.73kb] [文件加载：51]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000883s ] mysql:dbname=yishupin;host=127.0.0.1;charset=utf8
+[ error ] [42S02]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yishupin.admin_config' doesn't exist[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\db\connector\Mysql.php:63]
+
+---------------------------------------------------------------
+[ 2019-01-27T20:48:12+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.050767s][吞吐率：19.70req/s] [内存消耗：1,823.70kb] [文件加载：51]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006112s ] mysql:dbname=ysp;host=127.0.0.1;charset=utf8
+[ error ] [42S02]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ysp.admin_config' doesn't exist[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\db\connector\Mysql.php:63]
+
+---------------------------------------------------------------
+[ 2019-01-27T20:48:29+08:00 ] ::1 ::1 GET /
+[ log ] myshop.com/ [运行时间：0.058090s][吞吐率：17.21req/s] [内存消耗：1,823.73kb] [文件加载：51]
+[ info ] [ LANG ] D:\myphp_www\PHPTutorial\WWW\myshop\include\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'myshop.com',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ CACHE ] INIT File
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010271s ] mysql:dbname=yishupin;host=127.0.0.1;charset=utf8
+[ error ] [42S02]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yishupin.admin_config' doesn't exist[D:\myphp_www\PHPTutorial\WWW\myshop\include\library\think\db\connector\Mysql.php:63]
+
+---------------------------------------------------------------
